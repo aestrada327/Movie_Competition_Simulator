@@ -1,0 +1,7 @@
+import random as rand
+import numpy as np
+
+def shuffle(ls):
+
+
+cards = []
